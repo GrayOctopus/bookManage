@@ -8,4 +8,4 @@ npm install
 + 前端: npm run serve
 + 后端：nodemon serve
 ## 总结
-基于node和vue的数据库课设，还未发布，有时间再说
+基于node和vue的数据库课设，还未在服务器上发布，有时间再说
