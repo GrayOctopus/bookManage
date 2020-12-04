@@ -1,19 +1,11 @@
-# bookstore
-
-## Project setup
-```
+# 图书管理系统
+## 项目准备
++ 前端: vue,element-ui
++ 后端: express,mongoose
+## 依赖下载
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 项目运行
++ 前端: npm run serve
++ 后端：nodemon serve
+## 总结
+基于node和vue的数据库课设，还未发布，有时间再说
